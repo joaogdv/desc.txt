@@ -1,0 +1,4 @@
+1. comprar uma lampada
+2. desligar o interruptor 
+3. tirar a lampada atual
+4. colocar a lampada nova
